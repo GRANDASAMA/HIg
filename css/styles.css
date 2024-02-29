@@ -259,7 +259,7 @@
  */
 @media screen and (max-width: 100%) {
     :root {
-        --multiplier : .9375;
+        --multiplier : .100;
     }
 }
 
