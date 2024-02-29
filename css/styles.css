@@ -257,7 +257,7 @@
 /* on mobile devices below 600px, change the value of '--multiplier' 
  * to adjust the values of base font size and vertical space unit.
  */
-@media screen and (max-width: 60px) {
+@media screen and (max-width: 100%) {
     :root {
         --multiplier : .9375;
     }
