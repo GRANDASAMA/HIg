@@ -5366,7 +5366,7 @@ body.search-is-visible .s-header__search-inner {
     }
 }
 
- .video-iframe{
+ .video-container{
   position:relative;
   width:100;
   height:0;
@@ -5374,7 +5374,7 @@ body.search-is-visible .s-header__search-inner {
   /* 16:9 aspect ratio */
  }
 
- .video-iframe iframe {
+ .video-container iframe {
   position: absolute;
   width: 100%;
   height: 100%;
